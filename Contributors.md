@@ -7988,6 +7988,7 @@ Stephen kihuni
 - [Robert Crockett](https://github.com/robertcrockett)
 - [Jeeten Potabathni](https://github.com/jeetenp)
 - [Fernando Mora](https://github.com/jfernandomora)
+- [Zaneitor](https://github.com/zaneitor)
 - [Jean Nunes]~(https://github.com/ja8an)
 - [Manuel Esteban]~(https://github.com/Manuekle)
 - [Ian Knopke](https://github.com/ekponk)
@@ -8009,4 +8010,5 @@ Stephen kihuni
 - [David Wigg](https://github.com/davidjwigg)
 - [Mariana Schmidt](https://github.com/marianaceci)
 - [Shen Lingyu](https://github.com/FoeverA0)
+- [Leah Slaughter](https://github.com/lslaughter726)
 <!-- prettier-ignore-end -->
